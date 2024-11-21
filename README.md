@@ -10,7 +10,9 @@ This Power BI project includes **four comprehensive dashboards** designed to pro
 ### **1. Executive Dashboard**
    - Focused on high-level metrics critical for executives.  
    - **Key Visualizations and Metrics:**
-     - **Total Revenue:** $24.9M   ![image](https://github.com/user-attachments/assets/67847147-f9fe-416a-9427-59d88c825ef9)
+     - **Total Revenue:** $24.9M
+     - ![image](https://github.com/user-attachments/assets/b1b7f84a-1f1b-409d-927b-46035693f38b)
+
 
      - **Total Profit:** $10.5M  
      - **Revenue Trend:** Steady growth from Jan 2020 to Jan 2022, with revenue peaking at $5M.  
