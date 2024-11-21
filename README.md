@@ -4,7 +4,9 @@
 This Power BI project includes **four comprehensive dashboards** designed to provide actionable insights into AdventureWorks' business performance. These dashboards cater to different analytical needs, from executive-level summaries to detailed product and customer-level metrics. The aim is to enable stakeholders to make data-driven decisions with ease.
 
 --------------------------------------------------------------------------------------------
+### Dashboard Working video : https://drive.google.com/file/d/1nHddjXw2kX6XNQRP3ZdnUR41McBaqkxJ/view
 
+-----------------------------------------------------------------------------------------------------------------
 ## Dashboard Breakdown
 
 ### **1. Executive Dashboard**
