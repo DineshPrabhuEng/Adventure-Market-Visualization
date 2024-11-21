@@ -26,6 +26,7 @@ This Power BI project includes **four comprehensive dashboards** designed to pro
 ---
 
 ### **2. Maps Dashboard**
+![image](https://github.com/user-attachments/assets/109e473e-04a7-48da-b2b9-118f72291464)
    - Visualizes performance across different regions using an **interactive map**.
    - **Regions Covered:**  
      - North America, Europe, and Pacific regions.  
@@ -34,6 +35,7 @@ This Power BI project includes **four comprehensive dashboards** designed to pro
 ---
 
 ### **3. Product Details Dashboard**
+![image](https://github.com/user-attachments/assets/e9cd3417-7fb9-4a95-95c6-7dfd2dfd61fd)
    - Focuses on product-level insights to evaluate performance.  
    - **Key Features:**
      - Top 10 products by total orders, revenue, and returns.  
@@ -42,6 +44,7 @@ This Power BI project includes **four comprehensive dashboards** designed to pro
 ---
 
 ### **4. Customer Details Dashboard**
+![image](https://github.com/user-attachments/assets/00afe5d9-3e4d-4c9e-ba66-1e0987934011)
    - Provides insights into customer-level performance.  
    - **Key Metrics:**
      - Revenue per customer.  
